@@ -1,3 +1,3 @@
 # testcodepython
 
-Se familiariser avec Python et les tests.
+Se familiariser avec Python et les tests unitaires.
